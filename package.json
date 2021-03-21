@@ -1,0 +1,19 @@
+{
+  "name": "expresstest",
+  "version": "1.0.0",
+  "description": "Express Json Submission tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Drags007/expresstest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Drags007/expresstest/issues"
+  },
+  "homepage": "https://github.com/Drags007/expresstest#readme"
+}
